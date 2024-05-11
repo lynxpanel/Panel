@@ -1,6 +1,6 @@
 
-<img>test</img>
-# Lynx-Panel
+
+<h1><img src="https://raw.githubusercontent.com/lynxpanel/Panel-1.0.0/main/logo.jpeg" width="50px"> Lynx-Panel</h1>
 
 
 ## FAQ
