@@ -1,24 +1,36 @@
-# Lynx-Panel-1.0.0
+
+<img>test</img>
+# Lynx-Panel
 
 
 ## FAQ
 
-```
-**What is "Lynx-Panel"?**
-The Lynx-Panel is made for everyone who wants a better version of the Pterodactyl/Pelican Panel.
+<details>
+<summary><strong>What is "Lynx-Panel"?</strong></summary>
 
-**Why should i use "Lynx-Panel"?**
-We are working on the best performance and best customization methods just for you.
+> The Lynx-Panel is made for everyone who wants a better version of the Pterodactyl/Pelican Panel.
+</details><details>
+<summary><strong>Why should i use "Lynx-Panel"?</strong></summary>
 
-**Will it be hard to install?**
-Actually No. :D We will always try to improve the installation and make it as easy as possible.
+> We are working on the best performance and best customization methods just for you.
+</details><details>
+<summary><strong>Will it be hard to install?</strong></summary>
 
-**Does it run with wings?**
-No. it doesn't run with wings, instead it runs with our own NodeJS daemon for better and faster performance.
+> Actually No. :D We will always try to improve the installation and make it as easy as possible.
+</details><details>
+<summary><strong>Does it run with wings?</strong></summary>
 
-**Can i import my Pterodactyl/Pelican Panel settings?**
-In the future it will probably be possible. But for now it isn't planned.
+> No. it doesn't run with wings, instead it runs with our own NodeJS daemon for better and faster performance.
+</details><details>
+<summary><strong>Can i import my Pterodactyl/Pelican Panel settings?</strong></summary>
 
-**Will i be able to use my Pterodactyl/Pelican Eggs?**
-We are working to make it possible but in the meantime it won't be possible.
- ```
+> In the future it will probably be possible. But for now it isn't planned.
+</details><details>
+<summary><strong>Will i be able to use my Pterodactyl/Pelican Eggs?</strong></summary>
+
+> We are working to make it possible but in the meantime it won't be possible.
+</details><details>
+<summary><strong>Where is the difference between Pterodactyl/Pelican Panel and "Lynx-Panel"?</strong></summary>
+
+> It won't have many difference in how it works. But the installation will be easier. The performance will be better. And much more!
+</details>
