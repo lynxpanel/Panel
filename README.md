@@ -1,9 +1,9 @@
 <h1><a href="https://lynx-panel.net"><img src="https://raw.githubusercontent.com/lynxpanel/Panel-1.0.0/main/logo.jpeg" width="50px" height="50px"></a> Lynx-Panel</h1>
 
 ## General
-This project was created by "Kenley & GarfieldTV" in 2024 and will hopefully be updated every few months.
-This project is the first ever idea of an self-made Panel this means bugs and errors are to expected. But will be fixed in eather big or small updates. (depends on how serious the bug is.)
-This project will be made with HTML, CSS, JS/NodeJS/TS and a few things will be handled with PHP.
+> This project was created by "Kenley & GarfieldTV" in 2024 and will hopefully be updated every few months.
+> This project is the first ever idea of an self-made Panel this means bugs and errors are to expected. But will be fixed in eather big or small updates. (depends on how serious the bug is.)
+> This project will be made with HTML, CSS, JS/NodeJS/TS and a few things will be handled with PHP.
 
 ### This Panel will be having the following functions:
 - Container/(aka Eggs) creator.
