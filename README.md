@@ -1,7 +1,23 @@
-
-
 <h1><a href="https://lynx-panel.net"><img src="https://raw.githubusercontent.com/lynxpanel/Panel-1.0.0/main/logo.jpeg" width="50px" height="50px"></a> Lynx-Panel</h1>
 
+## General
+This project was created by "Kenley & GarfieldTV" in 2024 and will hopefully be updated every few months.
+This project is the first ever idea of an self-made Panel this means bugs and errors are to expected. But will be fixed in eather big or small updates. (depends on how serious the bug is.)
+This project will be made with HTML, CSS, JS/NodeJS/TS and a few things will be handled with PHP.
+
+### This Panel will be having the following functions:
+- Container/(aka Eggs) creator.
+- Theme creator.
+- Language translation support.
+- Settings editor in the Admin Panel.
+- No Nginx nor Apache or any third party webservice needed (besides PHP).
+- Panel Synchronising.
+- License System.
+- Marketplace for plugins and themes.
+- And plenty of more stuff. . .
+
+## License
+### THIS PROJECT IS OPENSOURCE WITH THE MIT LICENSE. PRIVATE USAGE IS ALLOWED BUT COMMERCIAL USAGE IS ONLY ALLOWED WITH AN BOUGHT LICENSE ON THE OFFICIAL WEBSITE! REMOVING THE CREDITS WILL NOT BE TOLERATED AND WILL RESULT IN A COURT PROCEEDING!
 
 ## FAQ
 
