@@ -1,6 +1,6 @@
 
 
-<h1><img src="https://raw.githubusercontent.com/lynxpanel/Panel-1.0.0/main/logo.jpeg" width="50px"> Lynx-Panel</h1>
+<h1><a href="https://lynx-panel.net"><img src="https://raw.githubusercontent.com/lynxpanel/Panel-1.0.0/main/logo.jpeg" width="50px" height="50px"></a> Lynx-Panel</h1>
 
 
 ## FAQ
