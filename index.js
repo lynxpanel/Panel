@@ -3,4 +3,4 @@ const fs = require("node:fs");
 const path = require("node:path");
 const express = require("express");
 
-console.log()
+console.log(process.env.DB_TYPE)
