@@ -20,8 +20,8 @@ function loadAPIS(app, dir){
         try {
             if(!mod.name){mod.name = "undefined"}else{mod.name = mod.name};
             if(!mod.method || !mod.path){console.warn(`Error: ${mod.name}`);return;};
-            app[mod.method.toLowerCase()](mod.path, (req, res) => {
-                mod.callback(req, res);
+            app[mod.method.toLowerCase()](mod.path, (req, res, __dirname) => {
+                mod.callback(req, res, dir);
             });
             console.log(`Loaded: ${mod.name} | ${mod.method} | ${mod.path}`);
         } catch (err) {
