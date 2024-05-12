@@ -3,7 +3,6 @@ const path = require("node:path");
 const bodyParser = require('body-parser');
 
 module.exports = 
-
 function loadAPIS(app, dir){
     app.use(bodyParser.json());
     app.use(bodyParser.urlencoded({ extended: true }));
