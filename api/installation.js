@@ -6,6 +6,6 @@ module.exports = {
     method: "PHP",
     path: "/",
     callback: (req, res, dir) => {
-        res.status(200).render(path.join(dir, "resources", "views", "installation", "index.php"));
+        res.status(200).render(path.join(dir, "resources", "views", "events", "installation", "index.php"));
     }
 };

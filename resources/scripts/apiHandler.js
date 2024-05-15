@@ -11,7 +11,7 @@ function ifFile(app, dir){
             app.all(/.+\.php$/, phpExpress.router);
             app.set('view engine', 'php');
             app.use(mod.path, (req, res) => {
-                mod.callback(req, res, dir);
+                mod.callback(req, res, mainDir);
             });
         }else{
         app[mod.method.toLowerCase()](mod.path, (req, res) => {
