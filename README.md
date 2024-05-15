@@ -6,7 +6,7 @@
 > This project will be made with HTML, CSS, JS/NodeJS/TS and a few things will be handled with PHP.
 
 ### This Panel will be having the following functions:
-- Container/(aka Eggs) creator.
+- Container/(aka eggs) creator.
 - Theme creator.
 - Language translation support.
 - Settings editor in the Admin Panel.
